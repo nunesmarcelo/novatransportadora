@@ -67,6 +67,7 @@
 					</fieldset>
 				</form>
 				<br/>
+				<br/>
 			</section>
 		';
 		
